@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/20 11:16:48.000.689,=C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/20 14:19:39.000.521,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Andrelino\Delphi\GeradorSeqTelefone\Unit1.pas</Transaction>
+    <Transaction>2020/09/20 14:19:39.000.521,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Andrelino\Delphi\GeradorSeqTelefone\Unit1.dfm</Transaction>
+    <Transaction>2020/09/20 14:19:46.000.498,C:\Users\andre\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Andrelino\Delphi\GeradorSeqTelefone\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
